@@ -1,8 +1,16 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/brndeveloper/brndeveloper/50c80b089f9d3056149a8730f6dae73a548409b0/nameProfile.svg" alt="Bruno Vinícius" />
+</h1>
 
+## Olá! 👋
+Me chamo Bruno, tenho 21 anos e sou desenvolvedor backend.
+
+## Skills
+- 👨‍💻 Java, Python
+- ⚙️ Maven, JUnit
+- 💽 SQL
+- 📜 Git
 <!--
-**brndeveloper/brndeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
