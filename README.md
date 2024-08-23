@@ -3,7 +3,7 @@
 </h1>
 
 ## Olá! 👋
-Me chamo Bruno, tenho 21 anos e sou desenvolvedor backend.
+Me chamo Bruno, tenho 22 anos e sou desenvolvedor backend.
 
 ## Skills
 - 👨‍💻 Java, Python
