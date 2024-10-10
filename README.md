@@ -3,14 +3,13 @@
 </h1>
 
 ## Olá! 👋
-Me chamo Bruno, tenho 22 anos e sou desenvolvedor backend.
+Me chamo Bruno, tenho 22 anos e sou desenvolvedor front-end.
 
 ## Skills
-- 👨‍💻 Java, Python
-- ⚙️ Maven, JUnit
-- 💽 SQL
+- 👨‍💻 HTML, CSS, JavaScript, Java, Python
+- ⚙️ Maven
 - 📜 Git
-- 🍃 Spring Boot Framework - Estudando no momento.
+-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" /> React - Estudando no momento.
 <!--
 Here are some ideas to get you started:
 
