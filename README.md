@@ -6,8 +6,7 @@
 Me chamo Bruno, tenho 22 anos e sou desenvolvedor front-end.
 
 ## Skills
-- 👨‍💻 HTML, CSS, JavaScript, Java, Python
-- ⚙️ Maven
+- 👨‍💻 HTML, CSS, JavaScript, TypeScript, Java, Python
 - 📜 Git
 -   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" /> React - Estudando no momento.
 <!--
